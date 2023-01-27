@@ -1,5 +1,7 @@
 # @meghan-cmh
-A Sophomore with major in Computing Science
+CS Specialization Software @ University of Alberta
+
+Interested Area: Front-end Development, Machine Learning, Natural Language Processing
 
 <!---
 - 👋 Hi, I’m 
